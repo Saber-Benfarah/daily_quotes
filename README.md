@@ -13,6 +13,9 @@ A clean, responsive web application built with **Flask**, designed to display a 
 - ⚡ Lightweight and fast – perfect for learning or showcasing Flask basics
 
 ---
-![Screenshot](screenshot![daily_quotes1](https://github.com/user-attachments/assets/7c241c30-76e0-4061-9282-4bccb6dd56ee)
+## 📸 Screenshots
+
+![daily_quotes1](https://github.com/user-attachments/assets/7c241c30-76e0-4061-9282-4bccb6dd56ee)
+
 ![daily_quotes](https://github.com/user-attachments/assets/78fb4cdc-8798-45f5-a870-5016a6d8e4bb)
-.png)
+
